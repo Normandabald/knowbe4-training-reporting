@@ -1,0 +1,14 @@
+api:
+  base_url: "https://eu.api.knowbe4.com/v1"
+  api_key: "YOUR_API_KEY"
+
+training:
+  mandatory_campaigns:
+    - "Example Mandatory Training1"
+    - "Example Mandatory Training2"
+    - "Example Mandatory Training3"
+
+user_fields:
+  optional:
+    - "division"
+    - "department"
